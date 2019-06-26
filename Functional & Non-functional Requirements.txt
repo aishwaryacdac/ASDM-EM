@@ -1,0 +1,24 @@
+Functional Requirements:
+
+1. Admin Authentication
+2. Employee Authentication
+3. Attendance Management
+4. Employee Management
+5. Leave Management
+6. Account Management
+7. Salary
+8. Loan
+9. Health Management
+
+
+Non Functional Requirements:
+
+1. Scalability	
+2. Maintainence
+3. Uptime
+4. Hardware Cost Management
+5. Cloud Administration
+6. High Traffic Management
+7. Security
+8. Availability
+9. Cost Management

@@ -1,0 +1,20 @@
+Contoso MNC has 12 offices across the world and need to shift to Google Cloud or AWS for their employees. The employees need to access the Accounting Information about the customers associated with the company. All the 12 offices data need to be centralized so there will be no conflicts and the data is organised in the pattern.
+Few problems areas:
+
+1. Centralized Data Management:
+	The data of all the offices need to be centralized so there will be no conflicts about the customers served at different location.
+
+2. Cost Maintainence:
+	The cost factor majorly depends on the company issued budget. The cost needs to be maintained so that it doesn't affects the company's profit.
+
+3. Centralized Employee Management:
+	Employees assigned to different offices need to be centralized so that it would be easy to track the employee.
+
+4. Admin Control System:
+	Administration control also needs to be available so that any technical issure or non technical issue will be solved in the given time.
+
+5. Availability:
+	The system needs to be available anytime 27x7 across the internet. The company's reputation needs to be maintained,.
+
+6. Trained Person:
+	Trained Cloud Person needs to be hired so that the management and building of the website will be faster and will be maintained by that person.
